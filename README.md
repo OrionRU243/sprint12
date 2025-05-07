@@ -24,6 +24,7 @@
       FROM "Orders";
 
       5. Автоматизация теста.
+      скриншоты 37 и 36
 Для запуска теста необходимо в файл configuration скопировить URLстенда вида [https://7b6b5ade-dbda-4523-aad6-50978727d2a9.serverhub.praktikum-services.ru](https://1f0bc3e5-1660-46e8-b514-df0376aebdb0.serverhub.praktikum-services.ru/)
 
 В файле sendor_stand_request нажать кнопку Run
